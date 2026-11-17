@@ -23,7 +23,14 @@ restrito às áreas de atuação do escritório. Commit de origem: `c9f21b4ab11a
   - TST: súmulas e OJs.
   - TNU: súmulas e uniformização.
   - TCU.
-- **Pernambuco:** leis complementares estaduais.
+- **Pernambuco:** leis ordinárias (12.679) e leis complementares estaduais.
+- **STF:** controle concentrado (ADI, ADC, ADPF e ADO) — 5.198 decisões.
+- **Atos infralegais** (\`reguladores/\`, texto da publicação original no DOU):
+  - RFB: 75.512 atos (SIJUT, soluções de consulta, INs e portarias).
+  - Previdenciário e trabalho: INSS (552), MTE (1.038).
+  - Tributário e contencioso fiscal: PGFN (255), CARF (76), CONFAZ (1.581, convênios ICMS e atos COTEPE).
+  - Agronegócio: MAPA (12.330).
+  - Controle externo: TCU (244, atos administrativos).
 
 **Lacuna:** o Decreto 3.048/99 (RPS) não consta do acervo de origem.
 
