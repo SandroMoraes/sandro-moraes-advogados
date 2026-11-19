@@ -1,0 +1,9 @@
+{
+  "name": "contraprova",
+  "version": "1.0.0",
+  "description": "CONTRAPROVA — sistema avançado de inteligência jurídica para impugnação, contestação e desconstituição de provas (direito brasileiro). Sete módulos: petições, documentos, perícia, sentenças, acórdãos, depoimentos e ônus da prova.",
+  "author": {
+    "name": "Sandro Moraes Advogados"
+  },
+  "keywords": ["direito", "processo civil", "processo do trabalho", "prova", "impugnação", "laudo pericial", "embargos de declaração", "ônus da prova"]
+}
