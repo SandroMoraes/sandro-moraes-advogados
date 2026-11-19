@@ -1,0 +1,19 @@
+{
+  "name": "sandro-moraes-advogados",
+  "owner": {
+    "name": "Sandro Moraes Advogados"
+  },
+  "metadata": {
+    "description": "Plugins jurídicos do escritório Sandro Moraes Advogados (Recife/PE)."
+  },
+  "plugins": [
+    {
+      "name": "contraprova",
+      "source": "./plugins/contraprova",
+      "description": "Sistema de inteligência jurídica para impugnação, contestação e desconstituição de provas, peças, laudos e decisões da parte contrária.",
+      "version": "1.0.0",
+      "category": "legal",
+      "keywords": ["direito", "processo civil", "prova", "impugnação", "laudo pericial", "embargos", "brasil"]
+    }
+  ]
+}
